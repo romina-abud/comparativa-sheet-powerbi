@@ -37,4 +37,5 @@ Demostrar cómo los mismos datos pueden analizarse en diferentes herramientas, d
 [Romina Abud](https://www.linkedin.com/in/romina-abud/)  
 *"Transformando datos en decisiones estratégicas"*
 
+## 📢 Publicación Relacionada en LinkedIn
 [![LinkedIn](https://www.linkedin.com/posts/romina-abud_powerbi-anaerlisisdedatos-datavisualization-activity-7303418503535984641-EO4s?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtrkDwBTwBJqKovFA_IIMhuY90abn-mJig)
