@@ -16,6 +16,7 @@ Demostrar cómo los mismos datos pueden analizarse en diferentes herramientas, d
 
 ## 💡 Versión Power BI
 ![Dashboard en Power BI](https://github.com/romina-abud/comparativa-sheet-powerbi/blob/280422d3eb050b2198da239fa4b5be32f9469994/power-bi-version/dashboard-costo-de-vida-powerbi.png)
+
 **Ventajas clave**:
 - 🚀 Visualizaciones interactivas y personalizables
 - 🔄 Conexión directa a múltiples fuentes de datos
