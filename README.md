@@ -27,7 +27,7 @@ Demostrar cómo los mismos datos pueden analizarse en diferentes herramientas, d
 - ➖ Requiere licencia para funcionalidades avanzadas
 
 ## 🎥 Video
-[![Ver Video]([video-power-bi-costo-de-vida](https://drive.google.com/file/d/1FE3yl8C3ONWPC8LZBWNtVAD0OcwL5--t/view?usp=drive_link))]
+[![Ver Video]([[video-power-bi-costo-de-vida](https://drive.google.com/file/d/1FE3yl8C3ONWPC8LZBWNtVAD0OcwL5--t/view?usp=drive_link)](https://drive.google.com/file/d/1FE3yl8C3ONWPC8LZBWNtVAD0OcwL5--t/view?usp=sharing))]
 
 ## 📌 Conclusiones Clave
 1. **Para equipos pequeños**: Google Sheets es más ágil
