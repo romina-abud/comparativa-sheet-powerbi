@@ -26,7 +26,7 @@ Demostrar cómo los mismos datos pueden analizarse en diferentes herramientas, d
 - ➖ Requiere licencia para funcionalidades avanzadas
 
 ## 🎥 Video Comparativo
-[Mira el análisis completo aquí](https://github.com/romina-abud/comparativa-sheet-powerbi/blob/280422d3eb050b2198da239fa4b5be32f9469994/videos/video-power-bi-costo-de-vida.mp4)
+[Mira el análisis completo aquí](https://drive.google.com/file/d/1HrxkUcj2CV8_NjQN5-Ez80mII-zYvjtr/view?usp=drive_link)
 
 ## 📌 Conclusiones Clave
 1. **Para equipos pequeños**: Google Sheets es más ágil
