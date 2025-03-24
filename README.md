@@ -26,8 +26,8 @@ Demostrar cómo los mismos datos pueden analizarse en diferentes herramientas, d
 - ➖ Curva de aprendizaje más pronunciada
 - ➖ Requiere licencia para funcionalidades avanzadas
 
-## 🎥 Video 
-[Mira el análisis completo aquí]([https://youtu.be/tu-enlace](https://drive.google.com/file/d/1FE3yl8C3ONWPC8LZBWNtVAD0OcwL5--t/view?usp=drive_link)) 
+## 🎥 Video
+[![Ver Video]([video-power-bi-costo-de-vida](https://drive.google.com/file/d/1FE3yl8C3ONWPC8LZBWNtVAD0OcwL5--t/view?usp=drive_link))]
 
 ## 📌 Conclusiones Clave
 1. **Para equipos pequeños**: Google Sheets es más ágil
@@ -38,5 +38,5 @@ Demostrar cómo los mismos datos pueden analizarse en diferentes herramientas, d
 [Romina Abud](https://www.linkedin.com/in/romina-abud/)  
 *"Transformando datos en decisiones estratégicas"*
 
-## 📢 Publicación Relacionada en LinkedIn
-[![LinkedIn](https://www.linkedin.com/posts/romina-abud_powerbi-anaerlisisdedatos-datavisualization-activity-7303418503535984641-EO4s?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtrkDwBTwBJqKovFA_IIMhuY90abn-mJig)
+## 📢 Publicación en LinkedIn
+[![LinkedIn](https://img.shields.io/badge/-Ver_Publicación_Completa-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/romina-abud_powerbi-anaerlisisdedatos-datavisualization-activity-7303418503535984641-EO4s?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtrkDwBTwBJqKovFA_IIMhuY90abn-mJig)
