@@ -4,7 +4,7 @@
 Demostrar cómo los mismos datos pueden analizarse en diferentes herramientas, destacando ventajas, desventajas y casos de uso ideales para cada una.
 
 ## 📊 Versión Google Sheets
-![Dashboard en Sheets]([/google-sheets-version/dashboard-sheets.png](https://docs.google.com/spreadsheets/d/1XZzHPnZjoPMX5vTvTiYgp31ZZDlzxyM3KolDqctvBLQ/edit?gid=0#gid=0)](https://raw.githubusercontent.com/romina-abud/proyecto_costo_de_vida_google_sheet/main/Dashboard-Costo-de-vida.png))
+![Dashboard en Sheets](https://raw.githubusercontent.com/romina-abud/proyecto_costo_de_vida_google_sheet/main/Dashboard-Costo-de-vida.png)
 **Características destacadas**:
 - ✔️ Fórmulas personalizadas para cálculos complejos
 - ✔️ Colaboración en tiempo real
