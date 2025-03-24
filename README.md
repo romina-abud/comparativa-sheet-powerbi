@@ -25,9 +25,6 @@ Demostrar cómo los mismos datos pueden analizarse en diferentes herramientas, d
 - ➖ Curva de aprendizaje más pronunciada
 - ➖ Requiere licencia para funcionalidades avanzadas
 
-## 🎥 Video Comparativo
-[Mira el análisis completo aquí](https://drive.google.com/file/d/1HrxkUcj2CV8_NjQN5-Ez80mII-zYvjtr/view?usp=drive_link)
-
 ## 📌 Conclusiones Clave
 1. **Para equipos pequeños**: Google Sheets es más ágil
 2. **Para análisis empresariales**: Power BI ofrece más profundidad
